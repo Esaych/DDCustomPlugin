@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/bukkit-1.6.4-R0.1-20130920.011542-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/craftbukkit-1.6.4-R0.1-20130920.141720-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/BungeeCord.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/PvPReward.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/ProtocolLib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/PlotMe.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/SurvivalGames.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/Essentials.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/jnbt-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/Votifier.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/DisguiseCraft.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/WorldGuard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/Towny.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/Factions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Owner/workspace/Lib/MCore.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
