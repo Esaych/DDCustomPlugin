@@ -33,6 +33,6 @@ Plugins include:
 - DrunkenWizard (sneak, get dizzy, teleport in a flash of fire)
 - VirtualChest (stores items in a remote location far from player)
 
-These plugins are useful to those who want to get code like this for their own developing. I only request that in your source (even if it is modified) you reference where you got the code, that being me, Esaych, or Samuel Holmberg.
+These plugins are useful to those who want to get code like this for their own developing. I only request that in your source (even if it is modified) you reference where you got the code, that being me, Esaych, or Samuel Holmberg. (Follow the rules under the MIT license)
 
 You will find many times where a database is used to store data, or read data. You will also notice that I did the absolute minimum in storing data in a text, yml, or json file. I prefer storing information inside the game, or close by. You will find examples of using chests, block ids, and item names to store data, as well as methods that helped prevent data loss during crashes of the server.
